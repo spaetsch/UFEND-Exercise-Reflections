@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a metadata file about all the files in the directory but it does not yet take the first snapshot. It is laying the groundwork for the first commit.
