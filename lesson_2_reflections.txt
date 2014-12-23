@@ -18,3 +18,6 @@ You can use the branches to isolate experiments. you can work on the experiment 
 
 How do the diagrams help you visualize the branch structure?
 Diagrams help you see the connections between the files, so you know which files are reachable and which are not.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together integrates their commits into one unified project. The branch apart-branch together diagram illustrates how the two branches were developed independently then united into a single commit.
