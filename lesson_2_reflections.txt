@@ -21,3 +21,7 @@ Diagrams help you see the connections between the files, so you know which files
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches together integrates their commits into one unified project. The branch apart-branch together diagram illustrates how the two branches were developed independently then united into a single commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git is more efficient because it can compare the files for you and isolate the possible conflicts. Manually merging, however, absoltely guarantees Git will not make the wrong decision about merging changes.
+
