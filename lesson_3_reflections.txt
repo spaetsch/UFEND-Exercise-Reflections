@@ -18,12 +18,12 @@ stored locally?
 
     It helps determine how to proceed with a merge. It shows you at what point you last updated from the remote, so you know that prior to that point, the remote and local repos are the same.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+5 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    It might be easier using a more familiar tool, like google docs, but it would be harder to guarantee that collaborators were not making conflicting changes. You could use email to coordinate merges, but you wouldn't have a convenient centralized location for the discussion surrounding them.
 
-When would you want to make changes in a separate branch rather than directly in
+6 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
