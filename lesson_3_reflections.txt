@@ -26,4 +26,4 @@ and what would be harder?
 6 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    This gives you a chance to experiment and verify your changes before sharing them with the rest of the team/community. Making changes directly in master could break the project and cause other team members problems with their own work.
